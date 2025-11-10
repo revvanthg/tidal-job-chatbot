@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "tidal-job-chatbot"
+  },
+  "targets": {
+    "steam-strategy-366917": {
+      "hosting": {
+        "prod": [
+          "steam-strategy-366917"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
