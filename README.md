@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tidal Job Chat Bot — Cloud Run + Firestore + Firebase Hosting (Zero Cost Demo)
 
 This zip contains:
@@ -57,3 +58,6 @@ firebase deploy --only hosting
 - Download JSON/CSV using buttons.
 ```
 
+=======
+# tidal-job-chatbot
+>>>>>>> fcdd58fa32292833d5900a5366a1550960b19126
